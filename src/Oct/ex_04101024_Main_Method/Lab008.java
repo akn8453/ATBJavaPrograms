@@ -1,10 +1,7 @@
-package Oct.ex_02101024_MainMethod;
+package Oct.ex_04101024_Main_Method;
 
-public class Lab001 {
+public class Lab008 {
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
 }
-
-
-

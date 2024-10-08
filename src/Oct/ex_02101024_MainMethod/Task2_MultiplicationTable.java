@@ -1,6 +1,6 @@
 package Oct.ex_02101024_MainMethod;
 
-public class Task2 {
+public class Task2_MultiplicationTable {
     public static void main(String[] args) {
 
         int n=10, i;
