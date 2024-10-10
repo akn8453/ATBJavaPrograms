@@ -9,5 +9,7 @@ public class Lab013 {
         int akshay$nomulwar = 90;
         System.out.println(akshay$nomulwar);
         int Lab013 = 123;
+        int $akshay = 45;
+        System.out.println($akshay);
     }
 }
