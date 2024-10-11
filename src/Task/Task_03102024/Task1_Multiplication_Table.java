@@ -1,4 +1,4 @@
-package Task_03102024;
+package Task.Task_03102024;
 
 public class Task1_Multiplication_Table {
     public static void main(String[] args) {

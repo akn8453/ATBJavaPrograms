@@ -1,4 +1,4 @@
-package Task_09102024;
+package Task.Task_09102024;
 
 public class Task1_Table_Using_printf {
 

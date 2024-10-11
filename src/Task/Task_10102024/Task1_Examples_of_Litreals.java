@@ -1,4 +1,4 @@
-package Task_10102024;
+package Task.Task_10102024;
 
 public class Task1_Examples_of_Litreals {
     public static void main(String[] args) {

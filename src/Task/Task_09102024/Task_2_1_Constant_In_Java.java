@@ -1,4 +1,4 @@
-package Task_09102024;
+package Task.Task_09102024;
 
 public class Task_2_1_Constant_In_Java {
 

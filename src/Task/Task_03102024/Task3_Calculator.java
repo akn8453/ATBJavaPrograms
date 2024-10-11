@@ -1,4 +1,4 @@
-package Task_03102024;
+package Task.Task_03102024;
 
 public class Task3_Calculator {
 
