@@ -18,8 +18,8 @@ public class Lab040 {
         boolean c = a > b;
         System.out.println(c);
 
-        int age_ajay = 34;
-        int age_akshay = 34;
+        int age_ajay = 27;
+        int age_akshay = 28;
         boolean result = age_akshay >= age_ajay;
 
         // age_aksahy > age_ajay or age_akshay =age_ajay

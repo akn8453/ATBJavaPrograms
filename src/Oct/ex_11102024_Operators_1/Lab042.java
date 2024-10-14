@@ -6,12 +6,13 @@ public class Lab042 {
         int b = 20;
         System.out.println(a+b); // Mathimatics Sum
 
-        String name1 = "Pramod";
-        String name2 = "Dutta";
-        System.out.println(name1+name2); // concatination
+        String name1 = "Akshay";
+        String name2 = "Nomulwar";
+        System.out.println(name1+ " " + name2); // concatination
 
         // + -> behave differently with the data type.
-        // + -> operator overloading
+        // + -> operator overloading in string
+        // + operator behaves differently as per the data type
     }
 }
 

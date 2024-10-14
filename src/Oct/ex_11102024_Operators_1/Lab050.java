@@ -12,9 +12,9 @@ public class Lab050 {
         // Compound Assignment Operators
         // +=, -=, /=, *=
         int a= 10;
-//        a +=10; // a = a+10
-//        a -=10; // a = a-10
-//        a /=10; // a = a/10
+       // a +=10; // a = a+10
+     //   a -=10; // a = a-10
+      //  a /=10; // a = a/10
         a *=10; // a = a*10
         System.out.println(a);
 
@@ -36,7 +36,7 @@ public class Lab050 {
         // Bitwise - Not important for Automation
         // ~ - Bitwise Not, >> - Right shift, << Left Shift, ^ - XOR
 
-        //  ++, -- ?
+        //  ++, -- ? pre post ternary op are pending
 
 
     }
