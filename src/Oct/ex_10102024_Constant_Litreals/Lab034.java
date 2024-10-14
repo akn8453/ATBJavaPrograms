@@ -2,7 +2,7 @@ package Oct.ex_10102024_Constant_Litreals;
 
 public class Lab034 {
     public static void main(String[] args) {
-        // Binary Literal
+        // integer Literal
         int age = 65; // Decimal System - Y, base will be 10
 
         // Binary Literal
