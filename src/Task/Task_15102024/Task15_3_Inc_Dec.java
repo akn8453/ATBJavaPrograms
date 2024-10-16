@@ -10,6 +10,7 @@ public class Task15_3_Inc_Dec {
         // --a = 19
         // a++ = 19
         // a--   20
+        // --a + a++ + a-- = 58
         //a = 19
     }
 }
