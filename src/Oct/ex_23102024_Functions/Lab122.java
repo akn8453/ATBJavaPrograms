@@ -25,6 +25,7 @@ public class Lab122 {
         String returned_value = greet_with_hello();
         System.out.println(returned_value);
 
+
         int voting_age = age_of_vote();
         System.out.println(voting_age);
         if (voting_age >= 18) {
