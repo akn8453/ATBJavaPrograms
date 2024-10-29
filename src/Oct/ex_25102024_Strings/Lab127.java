@@ -1,5 +1,6 @@
 package Oct.ex_25102024_Strings;
 
+import java.lang.String;
 public class Lab127 {
 
     public static void main(String[] args) {

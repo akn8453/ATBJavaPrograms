@@ -5,9 +5,9 @@ public class Lab128 {
     public static void main(String[] args) {
         String name = "akshay";
          name = "nomulwar";
-         name = "akshaynomulwar";
+         String name2  = "akshaynomulwar";
          name = "akshay";
          name = "Akshay";
-        System.out.println(name);
+        System.out.println(name2);
     }
 }

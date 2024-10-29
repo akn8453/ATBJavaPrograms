@@ -17,11 +17,11 @@ public class Task22_3_PalindromString {
             rev = rev+str.charAt(i);
         }
 
-        if (org_string == rev){
-            System.out.println(rev +" is a Palindrome string ");
+        if (org_string.equals(rev)){
+            System.out.println(org_string +" is a Palindrome string ");
         }
         else{
-            System.out.println(rev + " is not a Palindrome string");
+            System.out.println(org_string + " is not a Palindrome string");
         }
     }
 }
