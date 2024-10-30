@@ -14,16 +14,18 @@ public class Lab132 {
 
 
 
+       /*
         System.out.println(s1 == s3); // false
         System.out.println(s1 == s2); // false
         System.out.println(s2 == s3); // false
         System.out.println(s1 == s4); // true - SCP- -> Hello
         System.out.println(s3 == s5);
-
+       */
 
         // equals ( content) -> value
         // How can I check the values? equals == value
         System.out.println("value " + s1.equals(s2));
+        /*
         System.out.println("value " +s2.equals(s3));
         System.out.println("value "+s1.equals(s4));
         System.out.println(s3.equals(s5));
@@ -31,7 +33,7 @@ public class Lab132 {
         System.out.println("Value is 2 "+ s1.equalsIgnoreCase(s4));
         System.out.println(s2.equalsIgnoreCase(s3));
         System.out.println();
-
+     */
 
     }
 }
