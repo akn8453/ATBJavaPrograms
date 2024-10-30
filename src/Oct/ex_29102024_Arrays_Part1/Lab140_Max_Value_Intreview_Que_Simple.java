@@ -1,4 +1,4 @@
-package Oct.ex_29102024_Arrays;
+package Oct.ex_29102024_Arrays_Part1;
 
 import java.util.Arrays;
 public class Lab140_Max_Value_Intreview_Que_Simple {

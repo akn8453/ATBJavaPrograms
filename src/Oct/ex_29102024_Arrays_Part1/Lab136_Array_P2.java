@@ -1,4 +1,4 @@
-package Oct.ex_29102024_Arrays;
+package Oct.ex_29102024_Arrays_Part1;
 
 public class Lab136_Array_P2 {
     public static void main(String[] args) {

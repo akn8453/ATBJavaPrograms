@@ -1,4 +1,4 @@
-package Oct.ex_29102024_Arrays;
+package Oct.ex_29102024_Arrays_Part1;
 
 import  java.util.Scanner;
 public class Lab141_Arrays_UserInput {

@@ -1,4 +1,4 @@
-package Oct.ex_29102024_Arrays;
+package Oct.ex_29102024_Arrays_Part1;
 
 public class Lab139_Max_Value_Intreview_Que {
     public static void main(String[] args) {

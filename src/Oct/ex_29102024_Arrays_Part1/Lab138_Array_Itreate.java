@@ -1,4 +1,4 @@
-package Oct.ex_29102024_Arrays;
+package Oct.ex_29102024_Arrays_Part1;
 
 import java.util.Arrays;
 public class Lab138_Array_Itreate {
