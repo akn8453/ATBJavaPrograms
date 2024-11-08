@@ -1,4 +1,4 @@
-package Nov.ex_06112024_Constructor;
+package Nov.ex_06112024_OOPs_Constructor;
 
 public class Car {
 
