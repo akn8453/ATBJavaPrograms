@@ -1,4 +1,4 @@
-package Nov.MultiLevelInheritance;
+package Nov.ex_07112024_OOPs_Inheritance.MultiLevelInheritance;
 
 public class Child extends Father {
     void home(){

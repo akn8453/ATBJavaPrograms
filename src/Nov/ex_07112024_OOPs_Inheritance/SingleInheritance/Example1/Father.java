@@ -1,4 +1,4 @@
-package Nov.ex_07112024_OOPs_Inheritance_Single_Inheritance.SingleInheritance.Example1;
+package Nov.ex_07112024_OOPs_Inheritance.SingleInheritance.Example1;
 
 public class Father {
 

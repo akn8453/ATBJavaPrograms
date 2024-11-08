@@ -1,4 +1,4 @@
-package Nov.ex_07112024_OOPs_Inheritance_Single_Inheritance.SingleInheritance.Real;
+package Nov.ex_07112024_OOPs_Inheritance.SingleInheritance.Real;
 
 public class Lab156_Real_TC {
     public static void main(String[] args) {

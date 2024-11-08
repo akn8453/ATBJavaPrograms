@@ -1,4 +1,4 @@
-package Nov.ex_07112024_OOPs_Inheritance_Single_Inheritance.SingleInheritance.Example2;
+package Nov.ex_07112024_OOPs_Inheritance.SingleInheritance.Example2;
 
 public class Programming {
 
