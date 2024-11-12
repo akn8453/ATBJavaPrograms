@@ -11,6 +11,7 @@ public class Lab158 {
 class dog {
 
     void bark(){
+
         System.out.println("The dog barks");
     }
 
@@ -20,6 +21,7 @@ class hound extends dog{
 
     @Override
     void bark(){
+
         System.out.println("Hound can also bark");
     }
 }
