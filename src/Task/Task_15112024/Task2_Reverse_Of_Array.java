@@ -6,7 +6,7 @@ public class Task2_Reverse_Of_Array {
         int[] array1 = new int[]{1,2,3,4,5};
         System.out.println("The original array is : ");
         for(int i =0;i<array1.length;i++){
-            System.out.println(array1[i]);
+            System.out.print(array1[i]+ " ");
         }
         System.out.println();
         System.out.println("The reversed array is ");
