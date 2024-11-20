@@ -1,4 +1,4 @@
-package Nov.ex_17112024_Static_Wraper_Exceptions;
+package Nov.ex_14112024_Static_Wraper_Exceptions;
 
 public class Lab168_Static {
     public static void main(String[] args) {
